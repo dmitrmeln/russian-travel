@@ -1,0 +1,18 @@
+.page__content {
+  display: flex;
+  flex-direction: column;
+  gap: 92px;
+}
+
+@media screen and (max-width:1023px) {
+  .page__content {
+    gap: 88px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .page__content {
+    gap: 64px;
+  }
+}
+
