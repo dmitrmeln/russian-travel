@@ -12,10 +12,7 @@
   .place__title {
     font-size: 42px;
     line-height: 46px;
-  }
-
-  .place:first-of-type .place__title:first-of-type  {
-    max-width: 320px;
+    max-width: 330px;
   }
 }
 
